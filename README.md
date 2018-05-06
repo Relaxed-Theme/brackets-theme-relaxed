@@ -1,6 +1,6 @@
-# brackets-theme-relaxed
+# Relaxed Theme for Brackets
 
-Some people requested a Brackets Version of the Relaxed Theme. 
+Some people requested a [Brackets](http://brackets.io/) version of the Relaxed Theme. 
 
 ## Help wanted
 
