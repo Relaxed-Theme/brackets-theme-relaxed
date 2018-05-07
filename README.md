@@ -9,7 +9,15 @@ But I would love to see that happen, and are willing to give support.
 
 In case someone wants to work on this I will happily invite them to the Relaxed-Theme GitHub organization. Just ping me via [Twitter](https://twitter.com/mkuehnel), [email](mailto:mail@michael-kuehnel.de) or open an Issue/PR.
 
-## Usefull ressources
+## Useful ressources
 
-+ https://github.com/Brackets-Themes
-+ https://github.com/adobe/brackets/wiki/Creating-Themes
+### Relaxed colors
+
++ [Main colors of the relaxed theme](https://github.com/Relaxed-Theme/relaxed-terminal-themes/blob/master/index.js#L1-L23)
++ [Relaxed Atom theme](https://github.com/Relaxed-Theme/atom-relaxed-syntax)
++ [Relaxed VSCode theme](https://github.com/Relaxed-Theme/vscode-theme-relaxed)
+
+### Brackets theme creation
+
++ [Example Themes](https://github.com/Brackets-Themes)
++ [Creating themes for Brackets](https://github.com/adobe/brackets/wiki/Creating-Themes)
